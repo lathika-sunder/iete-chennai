@@ -2260,36 +2260,36 @@ progress {
   --bs-table-hover-bg: #323539;
   --bs-table-hover-color: #fff;
 }
-.table-responsive {
+.table- {
   -webkit-overflow-scrolling: touch;
   overflow-x: auto;
 }
 @media (max-width: 575.98px) {
-  .table-responsive-sm {
+  .table--sm {
     -webkit-overflow-scrolling: touch;
     overflow-x: auto;
   }
 }
 @media (max-width: 767.98px) {
-  .table-responsive-md {
+  .table--md {
     -webkit-overflow-scrolling: touch;
     overflow-x: auto;
   }
 }
 @media (max-width: 991.98px) {
-  .table-responsive-lg {
+  .table--lg {
     -webkit-overflow-scrolling: touch;
     overflow-x: auto;
   }
 }
 @media (max-width: 1199.98px) {
-  .table-responsive-xl {
+  .table--xl {
     -webkit-overflow-scrolling: touch;
     overflow-x: auto;
   }
 }
 @media (max-width: 1399.98px) {
-  .table-responsive-xxl {
+  .table--xxl {
     -webkit-overflow-scrolling: touch;
     overflow-x: auto;
   }
