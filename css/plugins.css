@@ -4823,7 +4823,7 @@ fieldset:disabled .btn {
 }
 .breadcrumb-item + .breadcrumb-item:before {
   color: var(--bs-breadcrumb-divider-color);
-  content: var(--bs-breadcrumb-divider, "https://..com/");
+  content: var(--bs-breadcrumb-divider, "https://template..com/");
   float: left;
   padding-right: var(--bs-breadcrumb-item-padding-x);
 }
